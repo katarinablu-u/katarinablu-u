@@ -1,4 +1,8 @@
-<h1 align="center">Woohyun's GitHub</h1>
+<p align="center">
+  <a href="https://github.com/katarinablu-u">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&width=440&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -13,10 +17,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=katarinablu-u&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katarinablu-u&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=katarinablu-u&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=katarinablu-u&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katarinablu-u&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=katarinablu-u&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.instagram.com/bo_ohw/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
